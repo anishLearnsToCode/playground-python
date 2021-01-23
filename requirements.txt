@@ -3,3 +3,5 @@ tensorflow
 matplotlib
 pandas
 opencv-python
+nltk
+sklearn
