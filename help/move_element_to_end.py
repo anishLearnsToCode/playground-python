@@ -22,6 +22,5 @@ def move_to_last(array: List[int], to_move: int) -> None:
 
 
 numbers = list(map(int, input().split()))
-# numbers = [2, 1, 2, 2, 2, 3, 4, 2]
 move_to_last(numbers, to_move=int(input()))
 print(numbers)
