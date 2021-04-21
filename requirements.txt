@@ -5,3 +5,4 @@ pandas
 opencv-python
 nltk
 sklearn
+instaloader
