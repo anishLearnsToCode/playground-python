@@ -1,0 +1,9 @@
+[TEST]
+login:    cern
+pwd:      KexiKaba3
+database: wcern_service_test
+
+[PROD]
+login:    cern
+pwd:      KexiKaba3
+database: wcern_service_prod
